@@ -1,0 +1,23 @@
+What is a Scss mixin? A mixin is kind of like a function in java script that take variables in css to use in your design and loadout.
+Will Scss render in the browser? Why or why not? It will not. You need to use something to translate your Scss into css. using a compiler.
+How do you assign a variable in Scss? Give me a use case. You can assign a variable in Scss by using the $ symbol and you can also can it out such as $variable. 
+What is Variable Scope? The variable scope is everything that can use a variable. Such as a global variable's scope would be everything that resides globally on the app.
+What is Pseudo Selector Nesting? Its when you put an element inside a Pseudo Selector Such as :hover to decide what the element will do once the Pseudo Selector is used.
+Why would you use default variables in Scss? To add more capability with less lines of code gives you the ability to use a single style more than one time calling a single variable.
+What is the purpose of Scss? To better compile css to make it a more workforce friendly enviorment for software developers.
+What is the difference between Sass and Scss? Sass builds on top of css where, Scss is a preprocessor for css.
+What is the Scss @import Directive used for? It gives you the ability to compile lots of different code onto the same page or pages to use the styling more than once on many pages.
+What is the purpose of the @content Directive in Scss? It allows the content block to be used in a mixin.
+What is the main purpose of CSS Grid? The main purpose of css grid is to make it easy to lay out your elements on the page in a lot easier and faster way.
+How do you create a CSS Grid container? You would create a css grid container by using display: grid; followed by the layout of the grid. Then the elements the correspond in that grid.
+What is grid gap used for? Grid gap also now known as just gap: is a why for you to set Margin between the spaces in the grid that you have already set up.
+What is the CSS grid repeat function? The repeat function is great if you don't quite know how many elements are going to be on the page at any given time. It will just repeat the styles that you already have given to the computer and it generates that for all new or existing elements.
+What does 1fr represent? the 1fr represents a row or a column of a even width to match the rest of the grid.
+What is the purpose of Justify Items? Is a great tool when you want your Items in your grid to follow a certain standard of placement right, left, center, top, and bottom.
+What is the purpose of Align Items? align items relates the the child divs or elements you would find in the grid Does carry lots of the same tasks as justify items but does it within the assigned grid space.
+What does grid-column-start do? Grid column start would allow elements inside the grid to be started wherever you so choose such as the end of the column to the start. instead of the other way around.
+What is the main purpose of Flexbox? Flexbox allows you  to align elements in a container along the page that is both scalable and responsive. 
+How do you create a Flexbox container? You would start by going to the parent div or class to the place you want to create the container and display: flex;
+Which should you use, Flexbox or CSS Grid? You should use them both. Both of them are different tools that both offer solutions, but depending on the work that you are doing that day its all up to you.
+After creating a flex container, which elements are going to be affected by your flex styles? If you created the flex container in the Parent div and the elements that are inside of the parent div exactly one tab out would become child elements of the flex container. Those child elements are what would be affected by the flex container.
+What is the purpose of Flex Direction? The purpose of flex direction is to assign A direction for the flexbox container to display the elements.   
